@@ -1,0 +1,30 @@
+/* Outline */
+
+button:focus,
+button:active:focus,
+button.active:focus,
+button.focus,
+button:active.focus,
+button.active.focus,
+input:focus,
+input:active:focus,
+input.active:focus,
+input.focus,
+input:active.focus,
+input.active.focus,
+textarea:focus,
+textarea:active:focus,
+textarea.active:focus,
+textarea.focus,
+textarea:active.focus,
+textarea.active.focus {
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+
+/* Anchor */
+
+a {
+    text-decoration: none;
+}
