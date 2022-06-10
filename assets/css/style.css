@@ -25,15 +25,8 @@ body {
     border-radius: 50%;
 }
 
-.donate-money a {
-    color: #dc3545 !important;
-    border: 1px solid #dc3545;
-    border-radius: 5px;
-}
-
 .donate-money a:hover {
     color: #bb1f2f !important;
-    border: 1px solid #bb1f2f;
 }
 
 
