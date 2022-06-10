@@ -25,6 +25,17 @@ body {
     border-radius: 50%;
 }
 
+.donate-money a {
+    color: #dc3545 !important;
+    border: 1px solid #dc3545;
+    border-radius: 5px;
+}
+
+.donate-money a:hover {
+    color: #bb1f2f !important;
+    border: 1px solid #bb1f2f;
+}
+
 
 /* ======== UP BUTTON ======== */
 
@@ -110,5 +121,8 @@ body {
 @media screen and (max-width: 575.98px) {
     .slogan {
         display: none;
+    }
+    .donate-money {
+        border: none;
     }
 }
